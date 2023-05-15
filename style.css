@@ -37,7 +37,8 @@ h3 {
   width: 100%;
 }
 
-.th-video-voiceless {
+.th-video-voiceless, .th-video-voiced
+{
   margin-left: 15px;
 }
 
