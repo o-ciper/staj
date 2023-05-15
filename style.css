@@ -37,7 +37,7 @@ h3 {
   width: 100%;
 }
 
-.th-video {
+.th-video-voiceless {
   margin-left: 15px;
 }
 
@@ -73,6 +73,12 @@ figcaption {
 
 video {
   height: 460px;
+}
+
+.video-label {
+  font-size: 2rem;
+  margin-left: 15px;
+  margin-top: 10px;
 }
 
 .crossed-word {
