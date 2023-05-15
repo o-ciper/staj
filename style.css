@@ -37,6 +37,10 @@ h3 {
   width: 100%;
 }
 
+.th-video {
+  margin-left: 15px;
+}
+
 .script {
   font-size: 2.6rem;
   /* height: 0; */
@@ -70,6 +74,15 @@ figcaption {
 video {
   height: 460px;
 }
+
+.crossed-word {
+  text-decoration: line-through;
+}
+
+.red {
+  color: red;
+}
+
 
 @media (max-width: 480px) {
   .video-section {
