@@ -24,6 +24,12 @@ h3, h4 {
   margin: 55px 0px 45px;
 }
 
+img {
+  max-width: 80%;
+  margin: 15px;
+  border: 1px solid #ccc;
+}
+
 .track-container {
   border: 2px solid #ccc;
   border-radius: 10px;
