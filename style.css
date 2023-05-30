@@ -109,7 +109,9 @@ figcaption {
 }
 
 video {
-  height: 460px;
+  max-height: 35vw;
+  border: 2px solid #f1e9e9;
+  border-radius: 10px;
 }
 
 .video-label {
@@ -132,10 +134,12 @@ video {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    width: 80%;
   }
 
   video {
-    width: 90%;
+    width: 100%;
+    height: auto;
   }
 
   .audio-section {
