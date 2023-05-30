@@ -48,6 +48,7 @@ h3, h4 {
   align-items: center;
   justify-content: center;
   gap: 20px;
+  flex-wrap: wrap;
   /* margin-bottom: 55px;
   margin-top: 45px;  */
   margin: 40px 0px 45px;
@@ -57,6 +58,10 @@ img {
   max-width: 80%;
   margin: 15px;
   border: 1px solid #ccc;
+}
+
+.image-section > img {
+  max-width: 85%;
 }
 
 .track-container {
