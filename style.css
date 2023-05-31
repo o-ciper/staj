@@ -54,6 +54,20 @@ h3, h4 {
   margin: 40px 0px 45px;
 }
 
+.color-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 40px 0px 45px;
+}
+
+.color {
+  width: 20vw;
+  height: 20vw;
+}
+
 img {
   max-width: 80%;
   margin: 15px;
@@ -131,6 +145,26 @@ video {
 
 .red {
   color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.blue {
+  background-color: blue;
 }
 
 
