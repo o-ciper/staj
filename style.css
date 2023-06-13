@@ -68,6 +68,25 @@ h3, h4 {
   height: 20vw;
 }
 
+.question-section {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 12px 15px;
+}
+
+.question {
+	font-size: calc(12px + 1.5vw);
+}
+
+.answer {
+	color: darkgreen;
+}
+
+.listening-amerikan {
+  list-style-type: none;
+}
+
 img {
   max-width: 80%;
   margin: 15px;
